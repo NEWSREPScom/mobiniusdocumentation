@@ -1,0 +1,11 @@
+1. Install xampp server.
+2. Start the php & mysql services and create a table called newsreps.
+3. Run the sql commands in the dump file.
+4. Replace the 2 files in the xamp folders for apache. (Or copy the added bottom lines to your current files)
+5. Restart the php service.
+6. Open localhost in browser.
+
+
+Troubleshooting:
+
+Skype might block port 80, Tools/Options/Advanced/Connections -> uncheck port 80.
